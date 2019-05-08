@@ -3,11 +3,11 @@ Hi Daniel,
 
 Instructions for opening the Assessment
 
-1) Create empty database called scinexdavid. Import the attached scinexdavid.sql file into that database. 
-
-2) Clone the Repo from my Github account:
+1) Clone the Repo from my Github account:
 
    git clone https://github.com/chzplz21/scinexDavid.git
+
+2) Create empty database called scinexdavid. Import the scinexdavid.sql file into that database. 
 
 3) In the file db.php within scinexDavid, add your DB credentials.
 	
