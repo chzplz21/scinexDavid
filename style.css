@@ -1,0 +1,21 @@
+
+
+#messageContainer {
+
+  width: 300px;
+
+}
+
+.messageInner {
+  border: solid black;
+  padding: 10px;
+}
+
+#sendMessage, #loginButton {
+  margin-top: 10px;
+}
+
+.backHome {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
